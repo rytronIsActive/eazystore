@@ -4,7 +4,7 @@
 
 ## 📖 Overview
 
-Eazy Store is a playful and vibrant sticker store concept designed for developers, designers, and anyone who loves to express themselves through digital and physical stickers. Whether you're looking for coding jokes, cute designs, or motivational quotes, Ezzy Stickers has something for every occasion.
+Eazy Store is a playful and vibrant sticker store concept designed for developers, designers, and anyone who loves to express themselves through digital and physical stickers. Whether you're looking for coding jokes, cute designs, or motivational quotes, Eazy Store has something for every occasion.
 
 ---
 
