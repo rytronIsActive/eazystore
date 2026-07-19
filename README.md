@@ -24,7 +24,7 @@ Ezzy Stickers is a playful and vibrant sticker store concept designed for develo
 
 ## 🚀 Getting Started
 
----
+
 
 # 🌟 Setting Up FontAwesome in Your Vite React App
 
