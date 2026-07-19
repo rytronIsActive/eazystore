@@ -1,4 +1,4 @@
-# 🎨 Ezzy Stickers
+# 🎨 Eazy Store
 
 **Add a touch of creativity to your space with our wide range of fun and unique stickers!**
 
